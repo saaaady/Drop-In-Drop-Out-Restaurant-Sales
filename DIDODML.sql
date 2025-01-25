@@ -38,40 +38,23 @@ SELECT item, total_number_of_items_sold
 FROM
 (
     SELECT 'doughnut'      AS item, SUM(doughnut)      AS total_number_of_items_sold FROM dido
-    UNION ALL
-    SELECT 'plainbrownie', SUM(plainbrownie)           FROM dido
-    UNION ALL
-    SELECT 'moltenlava',   SUM(moltenlava)             FROM dido
-    UNION ALL
-    SELECT 'chickenbread', SUM(chickenbread)           FROM dido
-    UNION ALL
-    SELECT 'chickenpatti', SUM(chickenpatties)           FROM dido
-    UNION ALL
-    SELECT 'pastry',       SUM(pastry)                 FROM dido
-    UNION ALL
-    SELECT 'cardamomte',   SUM(cardamomtea)             FROM dido
-    UNION ALL
-    SELECT 'coffee',       SUM(coffee)                 FROM dido
-    UNION ALL
-    SELECT 'chickenpizza', SUM(chickenpizzal)           FROM dido
-    UNION ALL
-    SELECT 'cheesepizzal', SUM(cheesepizzal)           FROM dido
-    UNION ALL
-    SELECT 'zingerburger', SUM(zingerburger)           FROM dido
-    UNION ALL
-    SELECT 'chickenburger',SUM(chickenburger)          FROM dido
-    UNION ALL
-    SELECT 'chickenpiece', SUM(chickenpiece)           FROM dido
-    UNION ALL
-    SELECT 'chickenparal', SUM(chickenparatharoll)     FROM dido
-    UNION ALL
-    SELECT 'frenchfries',  SUM(frenchfries)            FROM dido
-    UNION ALL
-    SELECT 'pizzam',       SUM(pizzam)                 FROM dido
-    UNION ALL
-    SELECT 'pizzas',       SUM(pizzas)                 FROM dido
-    UNION ALL
-    SELECT 'shawarma',     SUM(shawarma)               FROM dido
+    UNION ALL SELECT 'plainbrownie',SUM(plainbrownie) FROM dido
+    UNION ALL SELECT 'moltenlava',SUM(moltenlava) FROM dido
+    UNION ALL SELECT 'chickenbread',SUM(chickenbread) FROM dido
+    UNION ALL SELECT 'chickenpatti', UM(chickenpatties) FROM dido
+    UNION ALL SELECT 'pastry',SUM(pastry) FROM dido
+    UNION ALL SELECT 'cardamomte',SUM(cardamomtea) FROM dido
+    UNION ALL SELECT 'coffee',SUM(coffee) FROM dido
+    UNION ALL SELECT 'chickenpizza',SUM(chickenpizzal) FROM dido
+    UNION ALL SELECT 'cheesepizzal',SUM(cheesepizzal) FROM dido
+    UNION ALL SELECT 'zingerburger',SUM(zingerburger) FROM dido
+    UNION ALL SELECT 'chickenburger',SUM(chickenburger) FROM dido
+    UNION ALL SELECT 'chickenpiece',SUM(chickenpiece) FROM dido
+    UNION ALL SELECT 'chickenparal',SUM(chickenparatharoll) FROM dido
+    UNION ALL SELECT 'frenchfries',SUM(frenchfries) FROM dido
+    UNION ALL SELECT 'pizzam',SUM(pizzam) FROM dido
+    UNION ALL SELECT 'pizzas',SUM(pizzas) FROM dido
+    UNION ALL SELECT 'shawarma',SUM(shawarma) FROM dido
 ) AS items
 ORDER BY total_number_of_items_sold DESC
 LIMIT 8;
