@@ -3,7 +3,7 @@ Drop In Drop Out (DIDO) is a restaurant located in Gujranwala, Pakistan which is
 
 By extracting insights based on the total number of items sold based on rank of the individual, average items sold per transaction, the dates with the highest number of items sold and the top 8 items sold I was able to tailor the prices and introduce "deals" on items for the community. 
 
-Below are the deals and offers that were devised based on the data.
+Below are the deals and offers that were devised based on the data. Prices are in Pakistani Rupees.
 
 ![10](https://github.com/user-attachments/assets/1d7d1bfd-bdb0-4d33-acf7-42516d507534)
 ![9](https://github.com/user-attachments/assets/fe98a900-fb31-4f93-bc8e-66f9f0a1f44f)
