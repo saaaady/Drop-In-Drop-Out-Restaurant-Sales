@@ -7,6 +7,6 @@ Below are the deals and offers that were devised based on the data.
 
 <img width="489" alt="2" src="https://github.com/user-attachments/assets/e2acb2b3-3219-4138-bd1e-2512de184c0d" />
 <img width="487" alt="1" src="https://github.com/user-attachments/assets/c008bd1a-ce2e-4578-83b4-598b07d9a203" />
-![9](https://github.com/user-attachments/assets/cb24ca40-985a-4519-9d30-ea2957f9efc3)
-![10](https://github.com/user-attachments/assets/2e1ecfaa-3b78-460f-969b-fd8eb6e66421)
-![3](https://github.com/user-attachments/assets/742d141b-fe52-4d66-a448-f56f684c7402)
+![9](https://github.com/user-attachments/assets/c573eac4-de8b-4457-812e-eb9acbb0892b)
+![10](https://github.com/user-attachments/assets/86b1a40b-917e-4364-9d1b-b8cc2b08b472)
+![3](https://github.com/user-attachments/assets/b3830fb6-3aa1-4b53-9a68-728d364f6c1d)
