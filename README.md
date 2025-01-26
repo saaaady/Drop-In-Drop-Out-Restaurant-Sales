@@ -5,8 +5,7 @@ By extracting insights based on the total number of items sold based on rank of 
 
 Below are the deals and offers that were devised based on the data.
 
-<img width="489" alt="2" src="https://github.com/user-attachments/assets/e2acb2b3-3219-4138-bd1e-2512de184c0d" />
-<img width="487" alt="1" src="https://github.com/user-attachments/assets/c008bd1a-ce2e-4578-83b4-598b07d9a203" />
-![9](https://github.com/user-attachments/assets/c573eac4-de8b-4457-812e-eb9acbb0892b)
-![10](https://github.com/user-attachments/assets/86b1a40b-917e-4364-9d1b-b8cc2b08b472)
-![3](https://github.com/user-attachments/assets/b3830fb6-3aa1-4b53-9a68-728d364f6c1d)
+![10](https://github.com/user-attachments/assets/1d7d1bfd-bdb0-4d33-acf7-42516d507534)
+![9](https://github.com/user-attachments/assets/fe98a900-fb31-4f93-bc8e-66f9f0a1f44f)
+<img width="489" alt="2" src="https://github.com/user-attachments/assets/8dc72e18-d1e1-4aac-b4a5-8361285bbae2" />
+<img width="487" alt="1" src="https://github.com/user-attachments/assets/5301f9dd-0361-442f-8963-cb01ef447449" />
